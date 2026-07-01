@@ -1,4 +1,4 @@
-const API_KEY = 'YAHAN_APNA_API_KEY_DAALEIN';
+const API_KEY = 'AQ.Ab8RN6Lh5To5ghWVVGuPj12HFBsvX4O4uS4eQ40bf50_sLVdig';
 
 const chatBox = document.getElementById('chat-box');
 const userInput = document.getElementById('user-input');
